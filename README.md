@@ -1,0 +1,2 @@
+# Python code error: TypeError in calculate_average function
+This repository contains a Python function that calculates the average of a list of numbers.  However, the function is susceptible to a TypeError when the input list contains mixed data types (numbers and strings). The solution demonstrates how to handle this error gracefully using exception handling.
